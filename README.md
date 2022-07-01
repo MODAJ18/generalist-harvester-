@@ -1,6 +1,6 @@
-# Data Ingestion Pipeline Template
+# Google Data Commons Scraper
 
-This repository consists of boilerplate folder structure to write and organize your scripts for a data ingestion pipeline
+Scraper that gets data from multiple countries, each with time series data for the statistical variable chosen 
 
 ## Folder Structure
 The tree diagram below represents a general file structure
